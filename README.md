@@ -4,18 +4,18 @@
 [Email](mailto:berkeyjonathan3@gmail.com "Email")
 [LinkedIn](https://www.linkedin.com/in/jonathan-berkey-4806a119b/ "LinkedIn")
 
-Inventory/Capacity Specialist with experience applying data extraction, transformation and loading (ETL) techniques to support operational analysis and improvement. I want to focus continuing developing my skills in data analytics to drive actionable business decisions. Feel free to reach out for any additional information.  
+Inventory/Capacity Specialist with experience applying data extraction, transformation and loading (ETL) techniques to support operational analysis and improvement. I want to focus on continuing to develop my skills in data analytics to drive actionable business decisions. Feel free to reach out for any additional information.  
 
-- 📦 Product Placement for WebstaurantStore Distribution Center (Buckhorn PA)
-- 🎓 Bachelor Degree (Indiana University of Pennsylvania) Communication Media
-- 🖥️ Loves data ETL/Manipulation
+- 📦 Product Placement for WebstaurantStore Distribution Center (Buckhorn, PA)
+- 🎓 Bachelor's Degree (Indiana University of Pennsylvania) Communication Media
+- 🖥️ Loves data ETL/manipulation
 - 🚲 Loves riding MTB
-- 🕹️ Gaming and watching Movies on weekends  
+- 🕹️ Gaming and watching movies on weekends  
 
 ## Data ETL Tools
-![Python](https://img.shields.io/badge/Python-blue)
-![PowerBI](https://img.shields.io/badge/PowerBI-yellow)
-![Dax](https://img.shields.io/badge/DAX-orange)
+[![PowerBI](https://img.shields.io/badge/PowerBI-yellow)](#power bi)
+[![Python](https://img.shields.io/badge/Python-blue)](#python)
+[![DAX](https://img.shields.io/badge/DAX-orange)](#powerbi)
 ![SQL](https://img.shields.io/badge/SQL-purple)
 ![Excel](https://img.shields.io/badge/Excel-green)
 
@@ -25,9 +25,36 @@ Inventory/Capacity Specialist with experience applying data extraction, transfor
 ![Streamlit](https://img.shields.io/badge/Streamlit-4a4947)
 
 # Projects
-Reach out via email for any and requests regarding access to any repos or projects.
-## PowerBI
+Reach out via email for any requests regarding access to any repos or projects. Some sensitive information is omitted from these screenshots.
+## Power BI
 ### Capacity Tool
-PowerBI Tool used to visualize capacity percentages and patterns within the DC to support capacity planning and strategy.
+Power BI tool used to visualize capacity percentages and patterns within the DC to support capacity planning and strategy.
 
 ![CapacityMain](Images/CapacityMain.png)
+![CapacityBreakdown](Images/CapacityBreakdown.png)
+![CapacityZoneBreakdown](Images/CapacityZoneBreakdown.png)
+
+### SinglePalletConsolidationVis
+Power BI tool used to visualize bins within the DC with the same items that can be consolidated together to free up space. This tool is also accompanied by a Python script for ETL.
+
+![SinglePalletVisMain](Images/SinglePalletVisMain.png)
+![SinglePalletVisLaborSummary](Images/SinglePalletVisLaborSummary.png)
+
+## Python
+### Streamlit Capacity Tool
+Streamlit app used for data analysis, generating reports, and binning new items that come to the DC.
+
+![StreamlitMain](Images/StreamlitMain.png)
+![StreamlitRandomBin](Images/StreamlitRandomBin.png)
+![StreamlitItemLookup](Images/StreamlitItemLookup.png)
+
+### Data Class and Labor Scripts
+A class was made using Python and the pandas package to manipulate and analyze CSVs. Some projects that were made using this class are described below. Modules are available upon request.
+
+- Data Class - Used to complement other scripts by pulling data and using properties and methods to manipulate data.
+
+- Single Pallet Consolidation - Script manipulates CSVs to find bins with items that can be consolidated together using item and bin volume.
+
+- Wrong Zone - Used to find items that have overflow on the wrong side of the DC. Using this script and combining these bins reduces travel time for drivers when replenishing the main bin for the item.
+
+- Replen Count Tool - Takes a roster and CSVs to aggregate the number of moves or amount of labor completed by each employee.
