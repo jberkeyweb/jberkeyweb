@@ -15,7 +15,7 @@ Inventory/Capacity Specialist with experience applying data extraction, transfor
 ## Data ETL Tools
 [![PowerBI](https://img.shields.io/badge/PowerBI-yellow)](#power-bi)
 [![Python](https://img.shields.io/badge/Python-blue)](#python)
-[![DAX](https://img.shields.io/badge/DAX-orange)](#powerbi)
+[![DAX](https://img.shields.io/badge/DAX-orange)](#power-bi)
 ![SQL](https://img.shields.io/badge/SQL-purple)
 ![Excel](https://img.shields.io/badge/Excel-green)
 
