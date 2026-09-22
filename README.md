@@ -1,4 +1,4 @@
-![Jonathan Berkey](Images/animation.gif)
+![Jonathan Berkey](Images/animation1.gif)
 
 ## About Me
 [Email](mailto:berkeyjonathan3@gmail.com "Email")
