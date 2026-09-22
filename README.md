@@ -1,4 +1,4 @@
-## Jonathan Berkey Portfolio
+# Jonathan Berkey Portfolio
 
 ## About Me
 [Email](mailto:berkeyjonathan3@gmail.com "Email")
@@ -23,3 +23,11 @@ Inventory/Capacity Specialist with experience applying data extraction, transfor
 ![Pandas](https://img.shields.io/badge/Pandas-069412)
 ![Openpyxl](https://img.shields.io/badge/Openpyxl-c47f06)
 ![Streamlit](https://img.shields.io/badge/Streamlit-4a4947)
+
+# Projects
+Reach out via email for any and requests regarding access to any repos or projects.
+## PowerBI
+### Capacity Tool
+PowerBI Tool used to visualize capacity percentages and patterns within the DC to support capacity planning and strategy.
+
+![CapacityMain](Images/CapacityMain.png)
