@@ -13,7 +13,7 @@ Inventory/Capacity Specialist with experience applying data extraction, transfor
 - 🕹️ Gaming and watching movies on weekends  
 
 ## Data ETL Tools
-[![PowerBI](https://img.shields.io/badge/PowerBI-yellow)](#power bi)
+[![PowerBI](https://img.shields.io/badge/PowerBI-yellow)](#power-bi)
 [![Python](https://img.shields.io/badge/Python-blue)](#python)
 [![DAX](https://img.shields.io/badge/DAX-orange)](#powerbi)
 ![SQL](https://img.shields.io/badge/SQL-purple)
