@@ -4,7 +4,7 @@
 [Email](mailto:berkeyjonathan3@gmail.com "Email")
 [LinkedIn](https://www.linkedin.com/in/jonathan-berkey-4806a119b/ "LinkedIn")
 
-Inventory/Capacity Specialist with experience applying data extraction, transformation and loading (ETL) techniques to support operational analysis and improvement. I want to focus on continuing to develop my skills in data analytics to drive actionable business decisions. Feel free to reach out for any additional information.  
+Inventory/Capacity Specialist with experience applying data extraction, transformation, and loading (ETL) techniques to support operational analysis and improvement. I want to focus on continuing to develop my skills in data analytics to drive actionable business decisions. Feel free to reach out for any additional information.  
 
 - 📦 Product Placement for WebstaurantStore Distribution Center (Buckhorn, PA)
 - 🎓 Bachelor's Degree (Indiana University of Pennsylvania) Communication Media
@@ -28,21 +28,21 @@ Inventory/Capacity Specialist with experience applying data extraction, transfor
 Reach out via email for any requests regarding access to any repos or projects. Some sensitive information is omitted from these screenshots.
 ## Power BI
 ### Capacity Tool
-Power BI tool used to visualize capacity percentages and patterns within the DC to support capacity planning and strategy.
+Power BI tool used to analyze warehouse capacity by zone and identify capacity constraints. Built using Power Query for ETL, DAX for capacity measures, and interactive drill-through views for in-depth analysis.
 
 ![CapacityMain](Images/CapacityMain.png)
 ![CapacityBreakdown](Images/CapacityBreakdown.png)
 ![CapacityZoneBreakdown](Images/CapacityZoneBreakdown.png)
 
 ### SinglePalletConsolidationVis
-Power BI tool used to visualize bins within the DC with the same items that can be consolidated together to free up space. This tool is also accompanied by a Python script for ETL.
+Power BI tool used to visualize bins within the DC with the same items that can be consolidated together to free up space. Built using Power Query and DAX for interactive filtering by zones or items.
 
 ![SinglePalletVisMain](Images/SinglePalletVisMain.png)
 ![SinglePalletVisLaborSummary](Images/SinglePalletVisLaborSummary.png)
 
 ## Python
 ### Streamlit Capacity Tool
-Streamlit app used for data analysis, generating reports, and binning new items that come to the DC.
+Streamlit app used for data analysis built with Python and pandas for generating reports, and binning new items entering the DC.
 
 ![StreamlitMain](Images/StreamlitMain.png)
 ![StreamlitRandomBin](Images/StreamlitRandomBin.png)
