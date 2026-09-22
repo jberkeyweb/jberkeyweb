@@ -1,4 +1,4 @@
-# Jonathan Berkey Portfolio
+![Jonathan Berkey](Images\animation.gif)
 
 ## About Me
 [Email](mailto:berkeyjonathan3@gmail.com "Email")
